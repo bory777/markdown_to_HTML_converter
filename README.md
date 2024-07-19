@@ -1,4 +1,3 @@
-```markdown
 # Markdown to HTML Converter
 
 Markdown to HTML Converterは、MarkdownファイルをHTMLファイルに変換するPythonスクリプトです。コマンドライン引数としてMarkdownファイルとHTMLファイルのパスを指定し、Markdownの内容をHTMLに変換して指定されたHTMLファイルに書き込みます。
